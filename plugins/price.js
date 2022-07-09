@@ -51,7 +51,7 @@ let premium = `
             ], "contextInfo": 
             {  "stanzaId": m.key.id,
               "participant": "0@s.whatsapp.net",
-			  "remoteJid": "6283136505591-1614953337@g.us",
+			  "remoteJid": "6285742344873-1614953337@g.us",
               "quotedMessage": m.message
             }
     }}), { userJid: m.participant || m.key.remoteJid, quoted: m });
