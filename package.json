@@ -1,7 +1,7 @@
 {
-    "name": "ZEUSBOT-MD",
+    "name": "AnyaBotz-MD",
     "version": "3.5.4",
-    "description": "Bot WhatsApp Multi Device",
+    "description": "AnyaBotz Multi Device",
     "depecrated": false,
     "main": "index.js",
     "directories": {
