@@ -176,7 +176,7 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
              {
              urlButton: {
                displayText: 'Owner',
-               PhoneNumber: 'https://wa.me/6287892711054'
+               PhoneNumber: 'https://wa.me/6285742344873'
              }
 
            },
@@ -207,9 +207,9 @@ let handler = async (m, { conn, usedPrefix: _p }) => {
     throw e
   }
 }
-handler.help = ['menu2']
+handler.help = ['menu, help, ?']
 handler.tags = ['main']
-handler.command = /^(menu2)$/i
+handler.command = /^(menu/help/?)$/i
 handler.owner = false
 handler.mods = false
 handler.premium = false
